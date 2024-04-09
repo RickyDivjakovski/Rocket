@@ -1,6 +1,3 @@
----------------------------->> v8.5.4 <<----------------------------
-Testing changelog
-
 ---------------------------->> v8.5.3 <<----------------------------
 Fixed AFP tool not packing with shell redirect
 Fixed string appending stopping RK image tool from packing Rockchip firmware

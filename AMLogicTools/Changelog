@@ -1,3 +1,8 @@
+---------------------------->> v8.6.5 <<----------------------------
+Fixed tool enabing tab control without a loaded firmware
+Searching, Adding and Removing apps is no longer based on static directories (searched recursively)
+App counts are now /system apps > system count & all others > vendor count
+
 ---------------------------->> v8.6.2 <<----------------------------
 Fixed bootvideo not playing
 Removed broken enable bootvideo

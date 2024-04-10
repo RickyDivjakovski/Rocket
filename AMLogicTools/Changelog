@@ -1,3 +1,10 @@
+---------------------------->> v8.6.0 <<----------------------------
+Added support to unpack/repack allwinner firmware
+Added support to unpack allwinner logo (cannot repack yet)
+Fixed bug while attempting to display bootlogo
+Secondary archiver added
+More thorough checks for firmware type added
+
 ---------------------------->> v8.5.3 <<----------------------------
 Fixed AFP tool not packing with shell redirect
 Fixed string appending stopping RK image tool from packing Rockchip firmware

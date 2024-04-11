@@ -1,3 +1,23 @@
+---------------------------->> v8.8.0 <<----------------------------
+Added checking if zip is an upgrade zip
+Added ability to check firmware type from level1
+Fixed tool crashing on boot if level1 exists without level2
+Added check for img/zip unpack confirmation
+Fixed typo in unpack error message
+Modular bootanimation playback/changing (no longer partition specific)
+Modular bootvideo playback/changing (no longer partition specific)
+Resolved bug in attepting allwinner logo repack
+Improved stability of repacking bootanimation
+Improved stability of repacking bootvideo
+Removed obsolete wallpaper functions
+Fixed label with bootanimation dimensions and fps not displaying correctly
+Bootanimation will not play at correct framerate
+Fixed not disposing last slide of bootanimation
+Stability updates to patch system
+Added patching support to check platform (will end script if wrong platform)
+Multiwifi installation is more verbose
+Added GUI downnload progress for updates
+
 ---------------------------->> v8.6.5 <<----------------------------
 Fixed tool enabing tab control without a loaded firmware
 Searching, Adding and Removing apps is no longer based on static directories (searched recursively)

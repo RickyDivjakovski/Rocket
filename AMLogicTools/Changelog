@@ -1,4 +1,4 @@
----------------------------->> v8.8.0 <<----------------------------
+---------------------------->> v8.8.2 <<----------------------------
 Added checking if zip is an upgrade zip
 Added ability to check firmware type from level1
 Fixed tool crashing on boot if level1 exists without level2
@@ -17,6 +17,8 @@ Stability updates to patch system
 Added patching support to check platform (will end script if wrong platform)
 Multiwifi installation is more verbose
 Added GUI downnload progress for updates
+Fixed UI glitch displaying the image type as "None"
+Fixed UI glitch in updater (ignore/download overlapping textbox)
 
 ---------------------------->> v8.6.5 <<----------------------------
 Fixed tool enabing tab control without a loaded firmware

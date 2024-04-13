@@ -1,3 +1,17 @@
+---------------------------->> v8.9.0 <<----------------------------
+Added selective unpacking (only unpack partitions/files checked)
+Fixed cosmetic bug in downloader (displaying "Downloaded" while connecting to server)
+Added support for unpacking/repacking launcher (Resources only)
+Added locale changing
+Fixed no access to bootvideo directory issue
+Fixed displayID Changing to blank
+Build.prop editing now edits values for all build.prop files
+Support for up to android 14 now added
+General code cleanups and optimizations
+Removed obsolete bootvideo enabling files
+Fixed repack issue for allwinner firmwares
+Changed logo to RD-Soft logo
+
 ---------------------------->> v8.8.2 <<----------------------------
 Added checking if zip is an upgrade zip
 Added ability to check firmware type from level1

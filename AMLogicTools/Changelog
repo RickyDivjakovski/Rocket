@@ -1,3 +1,8 @@
+---------------------------->> v8.9.3 <<----------------------------
+Fixed locales not found in resources
+Removed obsolete files
+Static download directory now added
+
 ---------------------------->> v8.9.0 <<----------------------------
 Added selective unpacking (only unpack partitions/files checked)
 Fixed cosmetic bug in downloader (displaying "Downloaded" while connecting to server)

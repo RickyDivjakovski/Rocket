@@ -1,3 +1,9 @@
+---------------------------->> v9.1.0 <<----------------------------
+Fixed bootanimation change not being applied
+Fixed unpack class trying to repack empty boot/recovery
+Fixed bootvideo change not being applied
+Fixed bootlogo issue
+
 ---------------------------->> v9.0.1 <<----------------------------
 Reverted kernel/recovery unpack/repack method
 Removed root with magisk (unstable)

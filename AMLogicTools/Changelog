@@ -1,3 +1,15 @@
+---------------------------->> v9.0.1 <<----------------------------
+Reverted kernel/recovery unpack/repack method
+Removed root with magisk (unstable)
+Resolved "bootlogo.bmp" already exist bug (proper disposal)
+Added no network dialog on boot if no internet connection detected
+Updates to licensing (static activation code)
+
+---------------------------->> v9.0.0 <<----------------------------
+Updated Kernel/Recovery unpack/repack method
+Added root kernel with magisk
+Fixed bootanimation not unpacking (missing library)
+
 ---------------------------->> v8.9.4 <<----------------------------
 Fixed locales not found in resources
 Removed obsolete files

@@ -1,4 +1,8 @@
 ---------------------------->> v9.1.5 <<----------------------------
+Fixed unpack kernel bug
+Fixed crash bug on unpack (kernel regions)
+
+---------------------------->> v9.1.4 <<----------------------------
 Fixed all file access based errors in bootlogo/bootanimation
 Fixed kernel/recovery open buttons
 Accomodated for Rockchip firmware that do not have true machine model 

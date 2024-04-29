@@ -1,3 +1,8 @@
+---------------------------->> v9.1.5 <<----------------------------
+Fixed all file access based errors in bootlogo/bootanimation
+Fixed kernel/recovery open buttons
+Accomodated for Rockchip firmware that do not have true machine model 
+
 ---------------------------->> v9.1.0 <<----------------------------
 Fixed bootanimation change not being applied
 Fixed unpack class trying to repack empty boot/recovery

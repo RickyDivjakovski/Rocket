@@ -1,3 +1,7 @@
+---------------------------->> v9.2.5 <<----------------------------
+Fixed compatibility with rockchip firmware (no image dir)
+Rebuilt some libraries to help eliminate non building issue
+
 ---------------------------->> v9.2.0 <<----------------------------
 Re-enabled replace kernel
 Re-enabled replace recovery

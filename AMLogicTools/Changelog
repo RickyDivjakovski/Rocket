@@ -1,3 +1,18 @@
+---------------------------->> v9.4.0 <<----------------------------
+Ability to unpack apps
+Application info available
+Open APK file on double click
+Open unpacked apk folder on double click
+Fixed issue preventing some rockchip firmwares from being repacked
+Ability to modify non encrypted partitions of a firmware added
+Removed some tool dependencies
+Accommodation of "special" firmwares with an odd format (specifically tanix
+Ability to repack apps (only android manifest and png files will be packed retaining signature)
+Added "generate boot.img for magisk" feature
+Attempted to fix .net issues with broken components for specific windows builds
+Redisgned unpack launcher function
+Added extra checks/warning to extra bootlogo files
+
 ---------------------------->> v9.2.5 <<----------------------------
 Fixed compatibility with rockchip firmware (no image dir)
 Rebuilt some libraries to help eliminate non building issue

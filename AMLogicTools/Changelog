@@ -1,9 +1,12 @@
+---------------------------->> v9.5.1 <<----------------------------
+Partially fixed RK chip not recognised bug
+
 ---------------------------->> v9.5.0 <<----------------------------
 Added Logs button
 More support for non generic firmwares
 Fixed firmware unpack/repack bug
 Fixed incorrect permissions for uninstaller
-Reduced resources to fit into single package
+Added resources to be downloaded upon unpack
 
 ---------------------------->> v9.4.0 <<----------------------------
 Ability to unpack apps

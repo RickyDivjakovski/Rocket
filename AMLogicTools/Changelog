@@ -1,3 +1,10 @@
+---------------------------->> v9.5.0 <<----------------------------
+Added Logs button
+More support for non generic firmwares
+Fixed firmware unpack/repack bug
+Fixed incorrect permissions for uninstaller
+Reduced resources to fit into single package
+
 ---------------------------->> v9.4.0 <<----------------------------
 Ability to unpack apps
 Application info available

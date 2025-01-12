@@ -1,3 +1,11 @@
+---------------------------->> v9.5.8 <<----------------------------
+Updated RK chip detection method 
+Support for RK34 and RK35 chips added
+Added download progress bar for resources
+Changed "Modules" to resources
+Resize2fs now external
+Download progress bar for resources added
+
 ---------------------------->> v9.5.2 <<----------------------------
 Fixed rockchip chip not recognised issue
 

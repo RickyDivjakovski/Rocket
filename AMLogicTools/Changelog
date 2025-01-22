@@ -1,3 +1,10 @@
+---------------------------->> v9.7.0 <<----------------------------
+Added support for unpacking/packing rockchip bootlogo
+Removed message box fr testing
+Adjustments to repacking img
+Revamped repack to zip
+Converts super partition part (A) to standard ext4 img for zip packing
+
 ---------------------------->> v9.5.8 <<----------------------------
 Updated RK chip detection method 
 Support for RK34 and RK35 chips added

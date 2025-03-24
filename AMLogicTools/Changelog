@@ -1,9 +1,25 @@
+---------------------------->> v9.8.0 <<----------------------------
+Rebuilt logic to repack super partition
+Added support for more custom firmwares
+Removed warning for boot partition unpacking (newer android version have ramdisk embedded in system)
+Updated simg2img binary
+Updated ImgExtractor
+Updated LP utils
+Fixed force close bug when empty system folder
+Blocked unpacking non system apps (breaks things)
+
 ---------------------------->> v9.7.0 <<----------------------------
 Added support for unpacking/packing rockchip bootlogo
 Removed message box fr testing
 Adjustments to repacking img
 Revamped repack to zip
 Converts super partition part (A) to standard ext4 img for zip packing
+Fixed "Contains Vendor" checking
+Changed logic for detecting RK chip
+Updated RK utillities
+Updated platform config (Amlogic only)
+Fixed issues with writing bootloader in zip file
+Added super support for repacking to zip file
 
 ---------------------------->> v9.5.8 <<----------------------------
 Updated RK chip detection method 

@@ -1,3 +1,3 @@
-version|0.9.8.0
-download|https://raw.githubusercontent.com/RickyDivjakovski/Rocket/main/AMLogicTools/Downloads/CustomizationToolInstaller.exe 
-external|aik, apktools, python2, resize2fs, 
+version|0.10.0.0
+download|https://raw.githubusercontent.com/RickyDivjakovski/CustomizationTool_Resources/main/Downloads/CustomizationToolInstaller.exe 
+external|aik, apktools, python3, 

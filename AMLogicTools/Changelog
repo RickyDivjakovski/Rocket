@@ -1,3 +1,26 @@
+---------------------------->> v10.0.0 <<----------------------------
+Fixed dialog popup when repacking Rockchip firmware
+Added file and folder search functionality
+Added bulk copying files retaining directory structure to search right click context
+Added bulk deleting files to search right click context
+Added support for unpacking odm_ext partition
+Added support for amlogic 11.x logo changes (Credit nguyenphi for discovery)
+Licensing server changed to more stable
+Support for EROFS added, doesnt support crypto firmwares yet
+Added support for ARM64 and x86 instruction sets (partially)
+Added ARCH check/using specific binaries for ARCH
+Resize2fs is now obsolete
+Added "Developer Options" in menustrip
+Added experimental feature "Use python super utils"
+Added experimental feature "Use new DTB processing tools"
+Added experimental feature "Use new logo processing tools (amlogic)"
+Added experimental feature "Use new ext/sparse extactor"
+Added experimental feature "Use $ARCH dedicated make_ext4fs"
+Cleaned up logging
+Added support for android 14.x.x (partial due to erofs)
+Rebuilt all python scripts for python 3 compatibility
+Transitioned to python 3
+
 ---------------------------->> v9.8.0 <<----------------------------
 Rebuilt logic to repack super partition
 Added support for more custom firmwares
@@ -204,7 +227,7 @@ Fixed unpacking sparse zip files
 Fixed grammar in unpacking
 
 ---------------------------->> v8.0.0 <<----------------------------
-Added full support for android 5.x.x, 6.x.x, 7.x.x, 8.x.x, 9.x.x, 10.x.x, 11.x.x, 12.x.x and so on..
+Added full support for android 5.x.x, 6.x.x, 7.x.x, 8.x.x, 9.x.x, 10.x.x, 11.x.x, 12.x.x and 13.x.x
 Fixed crashing
 Improved logging
 Redesigned unpacking method
